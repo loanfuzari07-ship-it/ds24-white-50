@@ -1,0 +1,6 @@
+{
+  "name": "Oferta de Milagres",
+  "description": "Livre numérique avec 30 dévotions chrétiennes pour accompagner vos moments quotidiens de prière et de réflexion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
